@@ -21,7 +21,7 @@ Primeiro, você precisará clonar o repositório do projeto para o seu computado
 2. Execute o seguinte comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/HPelela/CadastrosX.git
 ```
 
 Substitua https://github.com/seu-usuario/seu-repositorio.git pelo link correto do repositório.
